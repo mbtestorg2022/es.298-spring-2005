@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1c4032ea-8d6c-7f25-6a10-9d8d63799c61
 resourcetype: Image
 title: color_balance.jpg
 uid: f9e996c8-7610-18d9-7227-aeaa81e583e4

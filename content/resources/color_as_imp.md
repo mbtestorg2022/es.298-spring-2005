@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1c4032ea-8d6c-7f25-6a10-9d8d63799c61
 resourcetype: Image
 title: color_as_imp.jpg
 uid: 5349838a-f02d-bcb8-5c53-5f301980edac

@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1c4032ea-8d6c-7f25-6a10-9d8d63799c61
 resourcetype: Image
 title: warmcold_colors.jpg
 uid: 3febe3b4-cd08-e7ff-b39b-f4c15476168f

@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1c4032ea-8d6c-7f25-6a10-9d8d63799c61
 resourcetype: Image
 title: bal_and_tension.jpg
 uid: 3080d2aa-3afc-e1b0-1525-fcb70522a33a
